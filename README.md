@@ -14,11 +14,14 @@ with Pagination for each service (Users and Products):
 Implements Swagger
 
 Inject dependencies
+
 ![image](https://user-images.githubusercontent.com/98135134/219975349-0910faaa-3e1b-4ca4-9c20-b5fd6c31e7e8.png)
+
 
 Test: 
 ```
 git clone https://github.com/Camilomora117/Taller3-AREP.git
 ```
+![image](https://user-images.githubusercontent.com/98135134/219975460-d8e14ba3-2ea5-4b43-8f92-17071f545a4c.png)
 
 
